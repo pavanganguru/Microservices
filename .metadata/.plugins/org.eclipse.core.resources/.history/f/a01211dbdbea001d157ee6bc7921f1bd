@@ -1,0 +1,5 @@
+package com.pavan.microservices.currencyexchangeservice.controller;
+
+public class CurrencyExchangeController {
+
+}
