@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\pavan\Desktop\microservices\currency-exchange-service"/>
 			<item value="C:\Users\pavan\Downloads\currency-exchange-service\currency-exchange-service"/>
 			<item value="C:\Users\pavan\Desktop\microservices\spring-cloud-config-server"/>
 			<item value="C:\Users\pavan\Desktop\microservices\limit-services"/>
