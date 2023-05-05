@@ -1305,3 +1305,10 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2023-05-04 20:01:07,589 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-05-04 20:01:07,590 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-05-04 20:01:07,593 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pavan\Downloads\currency-exchange-service\currency-exchange-service\src\test\resources
+2023-05-04 20:33:28,469 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-04 20:37:58,004 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pavan.microservices:currency-exchange-service:0.0.1-SNAPSHOT @ C:\Users\pavan\Desktop\microservices\currency-exchange-service\pom.xml.
+2023-05-04 20:37:59,284 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency-exchange-service/src/main/java
+2023-05-04 20:37:59,285 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /currency-exchange-service/src/main/resources
+2023-05-04 20:37:59,286 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /currency-exchange-service/src/main/resources
+2023-05-04 20:37:59,287 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency-exchange-service/src/test/java
+2023-05-04 20:37:59,694 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
