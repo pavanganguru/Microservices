@@ -1,5 +1,0 @@
-package com.pavan.microservices.currencyexchangeservice.model;
-
-public class ExchangeValue {
-
-}
