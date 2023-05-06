@@ -23,7 +23,7 @@ public class CurrencyExchangeController {
 		
 		ExchangeValue ev = exchangeValueRepository.findByFromAndTo(from, to);
 		
-//		ev.setPort(Integer.parseInt(environment.getProperty("local.server.port")));
+		ev.setPort(Integer.parseInt(environment.getProperty("local.server.port")));
 		return ev;
 		
 	}
